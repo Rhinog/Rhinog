@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rhinog
+- 👀 I’m interested in developing my knowledge of digital technology 
+- 🌱 I’m currently learning to make effective use of Mastodon and Fediverse
+- 💞️ I’m looking to collaborate on this
+- 📫 How to reach me at martinhughes8@gmail.com. Also @rhinog@toot.wales
